@@ -1,5 +1,5 @@
 ## Description
-Microcontroller Based Phase Locked Loop for Automatic Resonance Frequency Tracking
+Microcontroller Based Phase-Locked Loop for Automatic Resonance Frequency Tracking
 
 This repository contains hardware designs, firmware and documentation for a low cost microcontroller based method of phase control of a resonant circuit.
 
