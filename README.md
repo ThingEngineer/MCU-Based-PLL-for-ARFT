@@ -1,7 +1,7 @@
 ## Description
 Microcontroller Based Phase-Locked Loop for Automatic Resonance Frequency Tracking
 
-This repository contains hardware designs, firmware and documentation for a low cost microcontroller based method of phase control of a resonant circuit.
+Abstract— This paper presents a low cost microcontroller based method for phase control of a resonant circuit (tank). The primary utilization of this system that will be presented here is it's use in a resonant inverter to provide self-tuning to the tank's resonant frequency. This is a common practice in a number of applications that require a controlled AC source such as induction heating and lighting ballasts. Traditional solutions for accomplishing this task include using a monolithic PLL such as the common CD4046, mixed signal operation, or to perform pure digital phase control in software using an FPGA, DSP or other platforms. The method presented in this paper brings the performance of analog together with the stability and flexibility possible in digital control to a low cost, simple to program microcontroller platform for control of resonant circuits operating at frequencies <200kHz.
 
 principal author: Joshua Campbell josh.lee.campbell@gmail.com
 
